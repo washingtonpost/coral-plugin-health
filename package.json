@@ -1,6 +1,6 @@
 {
   "name": "@wpmedia/coral-plugin-health",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add a simple healthcheck to Coral Talk.",
   "main": "index.js",
   "keywords": [
