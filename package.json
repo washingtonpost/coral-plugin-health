@@ -1,5 +1,5 @@
 {
-  "name": "@wpmedia/coral-plugin-health",
+  "name": "@washingtonpost/coral-plugin-health",
   "version": "1.0.1",
   "description": "Add a simple healthcheck to Coral Talk.",
   "main": "index.js",
