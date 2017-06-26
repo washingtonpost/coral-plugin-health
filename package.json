@@ -8,6 +8,17 @@
     "Coral Talk",
     "Washington Post"
   ],
+  "engines": {
+    "node": ">=7.8.0"
+  },
+  "repository" :{
+    "type" : "git",
+    "url" : "https://github.com/washingtonpost/coral-plugin-health.git"
+  },
+  "bugs": {
+    "url" : "https://github.com/washingtonpost/coral-plugin-health/issues",
+    "email" : "erik.reyna@washpost.com"
+  },
   "author": "Erik Reyna <erik.reyna@washpost.com>",
   "license": "MIT"
 }
