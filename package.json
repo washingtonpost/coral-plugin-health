@@ -1,0 +1,13 @@
+{
+  "name": "coral-plugin-health",
+  "version": "1.0.0",
+  "description": "Add a simple healthcheck to Coral Talk.",
+  "main": "index.js",
+  "keywords": [
+    "Coral Project",
+    "Coral Talk",
+    "Washington Post"
+  ],
+  "author": "Erik Reyna <erik.reyna@washpost.com>",
+  "license": "MIT"
+}
